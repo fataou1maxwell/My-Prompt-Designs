@@ -4,7 +4,7 @@
 
 - Home Page: A visually appealing introduction that briefly highlights my expertise, latest projects, featured blog posts, and a call to action.
 
-- Projects Page: A portfolio-style section where I can showcase my projects with interactive thumbnails. Each project should have a dedicated page with images, videos, descriptions, and a mention of the relevant tech stack.
+- Projects Page: A portfolio-style section where I can showcase my projects with interactive thumbnails. When I click on a project's thumbnail, I should see a dedicated page where I can put images, videos, descriptions, code, and other details relevant to that project.
 
 - Blog Page: A structured space for my tech articles, categorized by topic, with an editable category system and a search function for easy navigation. It should also allow for future integration of a newsletter signup option.
 
@@ -14,13 +14,11 @@
 
 #### Here are some smart integrations that I want for a Seamless User Experience:
 
-- GitHub & LinkedIn Activity Feed: Embedded sections showcasing recent commits and professional updates.
-
-- Tech Stack Showcase: A concise display of the technologies I use, integrated into the Projects page or footer.
+- Tech Stack Showcase: A concise display of the technologies I use, integrated into the Projects page.
 
 - Dark Mode Toggle: Ensuring a modern and user-friendly browsing experience.
 
-- Newsletter Signup (Future Expansion): A small section in the blog or footer for email capture without cluttering the main design.
+- Newsletter Signup (Future Expansion): A small section in both the blog and the footer for email capture without cluttering the main design.
 
 - Search Functionality: Enabling visitors to easily find specific blog posts or projects.
 
