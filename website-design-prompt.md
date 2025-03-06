@@ -1,5 +1,14 @@
+Build a professional and stylish IT website containing the following pages:
+- Home: Clean intro, latest projects, blog highlights, and call-to-action.
+- Projects: With interactive thumbnails leading to detailed contents of the giving project.
+- Blog: Categorized posts with search functionality.
+- About: Editable for my Background information and includes a pdf resume download feature.
+- Contact: Includes a form and contact links.
+Make it a modern dark mode design, responsive, easy to update and edit, with newsletter signup and search functionality features.
+
 "I want to create a professional and stylish portfolio website that reflects my work and aspirations as an IT professional specializing in Site Reliability Engineering (SRE), DevOps, DevSecOps, Cloud Engineering, Cybersecurity, and IT in general. The website should have a modern, clean, and tech-inspired aesthetic with an intuitive and well-structured navigation.
 
+<!--
 #### Core Features & Pages:
 
 - Home Page: A visually appealing introduction that briefly highlights my expertise, latest projects, featured blog posts, and a call to action.
@@ -36,3 +45,5 @@ End of the prompt.
 
 Note to self:
 This version ensures that all key features are included without making the website overly complex. It’s professional, future-ready, and structured for both readability and growth.
+
+--> 
